@@ -1,7 +1,7 @@
 # Site
 title:              Asiive draws and writes. 
-bio:                'Assive draws and writes.'
-description:        "Assive draws and writes"
+bio:                'Asiive draws and writes.'
+description:        "Asiive draws and writes"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/pictures02.png'
@@ -44,7 +44,7 @@ github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          '@libera_voluntas'
+instagram:          libera_voluntas
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
