@@ -5,7 +5,7 @@ description:        "Asiive draws and writes"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/pictures02.png'
-background:         'assets/img/Asiivepage.png'
+background:         'assets/img/pictures03.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://Asiive.github.io
